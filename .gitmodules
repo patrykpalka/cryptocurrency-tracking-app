@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/patrykpalka/cryptocurrency-tracking-backend
+[submodule "android-app"]
+	path = android-app
+	url = https://github.com/patrykpalka/crypto-tracking-android-app
